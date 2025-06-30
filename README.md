@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Kartik
 
-#### M.S. in Computer Science @ UT Dallas | Software Developer
+#### M.S. in Computer Science @ UT Dallas | Former Software developer @ PyCray
 
 Hello! I'm Kartik, a passionate graduate student and software engineer specializing in full‑stack development and data‑driven systems. I build scalable APIs, work on real‑time data pipelines, and love solving problems in ML and backend architectures. Currently exploring AWS microservices, and enhancing my cloud infrastructure skills. Let’s create impactful tech together!
 
