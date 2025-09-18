@@ -43,7 +43,6 @@ Hello! I'm Kartik, a passionate graduate student and software engineer specializ
 
 ### 📊 GitHub Stats & Streaks
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kartik11082&show_icons=true)  
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Kartik11082)
 
 ---
