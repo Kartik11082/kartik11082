@@ -1,4 +1,5 @@
-<!-- Banner (create with any header generator—e.g., Leví Arista’s or REHeader) -->
+Banner (create with any header generator—e.g., Leví Arista’s or REHeader)
+
 <p align="center">
   <img src="./banner_2.png" alt="Kartik Karkera" />
 </p>
