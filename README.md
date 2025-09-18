@@ -4,7 +4,7 @@
 
 ## 👋 Hi there, I’m Kartik Karkera
 
-#### 🎓 M.S. in Computer Science @ UT Dallas | AWS Certified Solutions Architect – Associate (SAA‑C03) | AWS Certified Data Engineer – Associate (DEA‑C01) | Former Software Developer @ PyCray
+#### 🎓 M.S. in CS @ UT Dallas | AWS Solutions & Data Engineer Certified | Former Software Developer @ PyCray
 
 ---
 
