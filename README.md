@@ -6,7 +6,7 @@ Banner (create with any header generator—e.g., Leví Arista’s or REHeader)
 
 ## 👋 Hi there, I’m Kartik Karkera
 
-#### 🎓 M.S. in Computer Science @ UT Dallas | AWS Certified Solutions Architect | Former Software Developer @ PyCray
+#### 🎓 M.S. in Computer Science @ UT Dallas | AWS Certified Solutions Architect – Associate (SAA‑C03) | AWS Certified Data Engineer – Associate (DEA‑C01) | Former Software Developer @ PyCray
 
 ---
 
@@ -24,10 +24,11 @@ Hello! I'm Kartik, a passionate graduate student and software engineer specializ
 
 ---
 
-### 🚀 Current Status
+### 🚀 Certifications & Current Status
 
-- ✅ **Recently Achieved:** AWS Certified Solutions Architect – Associate (SAA‑C03)
-- 🔭 **Currently Working On:** AWS Data Engineering Certification
+- ✅ **AWS Certified Solutions Architect – Associate (SAA‑C03)**
+- ✅ **AWS Certified Data Engineer – Associate (DEA‑C01)**
+- 🔭 **Currently Working On:** Advanced AWS Data & Analytics projects
 - 📫 **How to reach me:**
   - 📧 [karkerakartik27@gmail.com](mailto:karkerakartik27@gmail.com)
   - 🔗 [LinkedIn](https://www.linkedin.com/in/kartikkarkera/)
