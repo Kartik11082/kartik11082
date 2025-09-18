@@ -37,7 +37,7 @@ Hello! I'm Kartik, a passionate graduate student and software engineer specializ
 
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30">](https://github.com/Kartik11082)  
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30">](https://www.linkedin.com/in/kartikkarkera/)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/web.svg" alt="Website" height="30">](https://portfolio-sepia-chi-86.vercel.app/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/web.svg" alt="Portfolio" height="30">](https://portfolio-sepia-chi-86.vercel.app/)
 
 ---
 
