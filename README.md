@@ -26,10 +26,12 @@ Hello! I'm Kartik, a passionate graduate student and software engineer specializ
 
 - ✅ **AWS Certified Solutions Architect – Associate (SAA‑C03)**
 - ✅ **AWS Certified Data Engineer – Associate (DEA‑C01)**
-- 🔭 **Currently Working On:** Advanced AWS Data & Analytics projects
+- ✅ **Databricks Certified Associate Developer for Apache Spark**
+- 🔭 **Currently Working On:** Advanced AWS Data Analytics projects
 - 📫 **How to reach me:**
   - 📧 [karkerakartik27@gmail.com](mailto:karkerakartik27@gmail.com)
   - 🔗 [LinkedIn](https://www.linkedin.com/in/kartikkarkera/)
+  - 🔗 [Portfolio](https://madebykartik.us/)
 
 ---
 
