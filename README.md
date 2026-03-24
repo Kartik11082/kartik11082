@@ -10,15 +10,15 @@
 
 ### 💡 About Me
 
-Hello! I'm Kartik, a passionate graduate student and software engineer specializing in full‑stack development and data‑driven systems. I build scalable APIs, work on real‑time data pipelines, and love solving problems in ML and backend architectures. I’m currently sharpening my cloud infrastructure skills and diving deeper into AWS services for data engineering. Let’s create impactful tech together!
+Hello! I'm Kartik, a graduate student and software engineer specializing in backend development and data driven systems. I build scalable APIs, work on real‑time data pipelines, and love solving problems in ML and backend architectures. I’m currently sharpening my cloud infrastructure skills and diving deeper into AWS services for data engineering. Let’s create impactful tech together!
 
 ---
 
 ### 🛠️ Skills
 
 **Languages & Tools:** Python · SQL · JavaScript (GraphQL) · HTML/CSS  
-**Frameworks & Data:** ReactJS · Django · PySpark · Hadoop  
-**Cloud & Infra:** AWS (Lambda · API Gateway · S3 · DynamoDB · AppSync) · Git · CI/CD
+**Frameworks & Data:** ReactJS · Django · Apache Spark · Hadoop  
+**Cloud & Infra:** AWS · Git · CI/CD
 
 ---
 
@@ -40,11 +40,5 @@ Hello! I'm Kartik, a passionate graduate student and software engineer specializ
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30">](https://github.com/Kartik11082)  
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30">](https://www.linkedin.com/in/kartikkarkera/)  
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/web.svg" alt="Portfolio" height="30">](https://portfolio-sepia-chi-86.vercel.app/)
-
----
-
-### 📊 GitHub Stats & Streaks
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Kartik11082)
 
 ---
