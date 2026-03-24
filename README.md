@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner_2.png" alt="Kartik Karkera" />
+  <img src="./banner.png" alt="Kartik Karkera" />
 </p>
 
 ## 👋 Hi there, I’m Kartik Karkera
