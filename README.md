@@ -4,7 +4,8 @@
 
 ### Hi, I'm Kartik 👋
 
-I build backend and data systems. ML Engineer Intern at **Kapi Advisors**, working on constraint optimization with OR-Tools. UT Dallas M.S. CS '26.
+I build backend and data systems. ML Engineer Intern at **Kapi Advisors**, working on constraint optimization with OR-Tools.
+UT Dallas M.S. CS '26.
 
 **🏆 Wins**
 - 🥇 1st place, TidalHack @ TAMU: [Traceline](https://github.com/Kartik11082/Traceline-TidalHack2026)
