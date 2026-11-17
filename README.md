@@ -19,7 +19,7 @@ UT Dallas M.S. CS '26.
 - [**MidnightCommits**](https://github.com/Kartik11082/MidnightCommits): live GitHub commits streamed through Kafka onto a 3D day/night globe
 
 <p>
-  <a href="https://madebykartik.us/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://portfolio-sepia-chi-86.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/kartikkarkera/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:karkerakartik27@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
